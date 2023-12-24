@@ -1,0 +1,1 @@
+Su questa cartella lavorara il logging
